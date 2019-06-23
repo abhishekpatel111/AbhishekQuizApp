@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AbhishekQuizApp</string>
+
+    <string name="ques1">1. Which of the following is NOT a feature of Java?</string>
+    <string name="ans1a">  A )   secure</string>
+    <string name="ans1b">  B )   platform-dependent    </string>
+    <string name="ans1c">  C )   multi-threaded</string>
+
+    <string name="ques2">2.  Which of the following is CORRECT char variable declaration?</string>
+    <string name="ans2a">  A )   char c = (int)65.1</string>
+    <string name="ans2b">  B )   char c = a</string>
+    <string name="ans2c">  C )   char c = 11</string>
+
+    <string name="ques3">3.Which of these keywords cannot be used for a class which has been declared final?</string>
+    <string name="ans3">abstract</string>
+
+    <string name="ques4">4.. Which of these keywords is used to define interfaces in Java?</string>
+    <string name="ans4">interface</string>
+
+    <string name="ques5">5. Which of these keywords can be used to prevent inheritance of a class?</string>
+    <string name="ans5a">  A )  super</string>
+    <string name="ans5b">  B )constant</string>
+    <string name="ans5c">  C ) final</string>
+
+    <string name="ques6">6. Which of these class is superclass of every class in Java?</string>
+    <string name="ans6a">  A )String class</string>
+    <string name="ans6b">  B )Object class</string>
+    <string name="ans6c">  C )Abstract class</string>
+
+    <string name="ques7">7. What is the output of relational operators?</string>
+    <string name="ans7"> Boolean</string>
+
+    <string name="ques8">8.The keyword used to declare the class?</string>
+    <string name="ans8">class</string>
+
+    <string name="ques9">9.  Which of the following icon represents cone?</string>
+
+    <string name="ques10">10.   Which of the following icon is square?</string>
+
+
+</resources>
